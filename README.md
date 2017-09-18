@@ -6,6 +6,8 @@
 
 技术栈：Vue2 axios  router 
 
+DEMO效果如图
+
 ![image](https://github.com/yutao331763646/vue-demo/blob/master/static/dd.gif)
 
 ## Build Setup
