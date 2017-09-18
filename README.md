@@ -4,7 +4,9 @@
 这是本人学VUE写的第一个小demo,没有高深难懂的语法，适合新手参考上手。大神勿喷
 
 技术栈：Vue2 axios  router 
-![image](https://github.com/yutao331763646/vuedemo/blob/master/static/dd.png)
+
+![image](https://github.com/yutao331763646/vue-demo/blob/master/static/dd.gif)
+
 ## Build Setup
 
 ``` bash
